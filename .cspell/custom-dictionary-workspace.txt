@@ -1,0 +1,11 @@
+# Custom Dictionary Words
+compilational
+DCHECK
+DFATAL
+gmock
+GOOGLETEST
+gtest
+IWYU
+sideeffect
+sideeffects
+Valgrind
